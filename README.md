@@ -1,1 +1,2 @@
-# LGM-Virtual-Internship-Program
+#MY_PERSONAL_WEBSITE
+MADE FOR LGM_WEB_INTERNSHIP
